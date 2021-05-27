@@ -1,0 +1,61 @@
+C:\Documents and Settings\alexandros.rodis\My Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.dll
+C:\Documents and Settings\alexandros.rodis\My Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.pdb
+C:\Documents and Settings\alexandros.rodis\My Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.xml
+C:\Documents and Settings\alexandros.rodis\My Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.tlb
+C:\Documents and Settings\alexandros.rodis\My Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\alexandros.rodis\My Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.Resources.resources
+C:\Documents and Settings\alexandros.rodis\My Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.vbproj.GenerateResource.Cache
+C:\Documents and Settings\alexandros.rodis\My Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.dll
+C:\Documents and Settings\alexandros.rodis\My Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.xml
+C:\Documents and Settings\alexandros.rodis\My Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.pdb
+C:\Documents and Settings\alexandros.rodis\My Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.dll.config
+C:\Users\alexandros.VIRTUALCONTROLS\Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.dll.config
+C:\Users\alexandros.VIRTUALCONTROLS\Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.dll
+C:\Users\alexandros.VIRTUALCONTROLS\Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.pdb
+C:\Users\alexandros.VIRTUALCONTROLS\Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.xml
+C:\Users\alexandros.VIRTUALCONTROLS\Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.tlb
+C:\Users\alexandros.VIRTUALCONTROLS\Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\alexandros.VIRTUALCONTROLS\Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.Resources.resources
+C:\Users\alexandros.VIRTUALCONTROLS\Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.vbproj.GenerateResource.Cache
+C:\Users\alexandros.VIRTUALCONTROLS\Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.dll
+C:\Users\alexandros.VIRTUALCONTROLS\Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.xml
+C:\Users\alexandros.VIRTUALCONTROLS\Documents\Visual Studio 2008\Projects\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.pdb
+C:\Documents and Settings\Alexandros\Desktop\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.dll.config
+C:\Documents and Settings\Alexandros\Desktop\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.dll
+C:\Documents and Settings\Alexandros\Desktop\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.pdb
+C:\Documents and Settings\Alexandros\Desktop\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.xml
+C:\Documents and Settings\Alexandros\Desktop\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.tlb
+C:\Documents and Settings\Alexandros\Desktop\IVAConnect\IVAConnect\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Alexandros\Desktop\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.Resources.resources
+C:\Documents and Settings\Alexandros\Desktop\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Alexandros\Desktop\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.dll
+C:\Documents and Settings\Alexandros\Desktop\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.xml
+C:\Documents and Settings\Alexandros\Desktop\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.pdb
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\obj\x86\Release\ResolveAssemblyReference.cache
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.Resources.resources
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.vbproj.GenerateResource.Cache
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.dll
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.xml
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.pdb
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.dll.config
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.dll
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.pdb
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.xml
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.tlb
+\\tsclient\D\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.dll.config
+\\tsclient\D\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.dll
+\\tsclient\D\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.pdb
+\\tsclient\D\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.xml
+\\tsclient\D\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\bin\x86\Release\IVAConnect.tlb
+\\tsclient\D\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\obj\x86\Release\ResolveAssemblyReference.cache
+\\tsclient\D\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.Resources.resources
+\\tsclient\D\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.vbproj.GenerateResource.Cache
+\\tsclient\D\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.dll
+\\tsclient\D\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.xml
+\\tsclient\D\VirtualControls\Visual Studio\IVA_Components\IVAConnect\IVAConnect\obj\x86\Release\IVAConnect.pdb
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect with Crypto Key\IVAConnect\obj\x86\Release\ResolveAssemblyReference.cache
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect with Crypto Key\IVAConnect\obj\x86\Release\IVAConnect.Resources.resources
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect with Crypto Key\IVAConnect\obj\x86\Release\IVAConnect.vbproj.GenerateResource.Cache
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect with Crypto Key\IVAConnect\obj\x86\Release\IVAConnect.dll
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect with Crypto Key\IVAConnect\obj\x86\Release\IVAConnect.xml
+D:\VirtualControls\Visual Studio\IVA_Components\IVAConnect with Crypto Key\IVAConnect\obj\x86\Release\IVAConnect.pdb

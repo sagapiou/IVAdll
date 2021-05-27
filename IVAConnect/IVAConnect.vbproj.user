@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Users\alexandros.VIRTUALCONTROLS\Documents\Visual Studio 2008\Projects\IVAConnectTester\IVAConnectTester\bin\x86\Debug\IVAConnectTester.exe</StartProgram>
+  </PropertyGroup>
+</Project>
